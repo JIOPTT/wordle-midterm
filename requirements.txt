@@ -1,5 +1,3 @@
 
-pygame
 fastapi
 uvicorn
-requests
